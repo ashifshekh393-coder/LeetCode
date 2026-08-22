@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0441-arranging-coins) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Array
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
