@@ -16,10 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
