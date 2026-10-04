@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashifshekh393-coder/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -55,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ashifshekh393-coder/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
